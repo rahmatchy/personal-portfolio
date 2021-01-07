@@ -1,0 +1,120 @@
+.navbar a{
+    margin-right: 30px;
+    padding: 10px 25px 5px 15px;
+    text-decoration: none;
+    float: right;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;    
+}
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 130px;
+}
+.section-1{
+    font-weight: bold;
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+
+h2{
+    font-size: 40px;
+    margin: 0px;
+}
+p{
+    color: dimgray;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:90%;
+}
+.heighlighted{
+    color: orange;
+}
+.link-button{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+h3{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.quad-width img{
+    width: 100%;
+    
+}
+.quad-width{
+    margin: 5px;
+    padding: 15px;
+    border: 5px white;
+    width: 30%;
+    float: left;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+    
+}
+.working{
+    margin: 60px;   
+}
+
+.working h2{
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+
+/* .shap-img img{
+    width: 50%;
+}
+.shap-img{
+    text-align: center;
+} */
+.text{
+    width: 100%;
+    background-image: url("img/shap.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+.link-button2{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
+h4{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+footer img{
+    width: 30px;
+}
